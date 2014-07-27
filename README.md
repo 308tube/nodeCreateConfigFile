@@ -2,6 +2,7 @@
 # nodeCreateConfigFile
 Small app that will create encrypted config files for your nodejs applications.
 
+Best Practice: Any config file at rest (not being used, sitting in storage) should be encrypted.
 
 ## Usage
 Once you have created the encrypt file, in order to use it in your project you will need to do the following things.
