@@ -21,5 +21,3 @@ Once you have created the encrypt file, in order to use it in your project you w
 https://github.com/MauriceButler/cryptr
 
 https://github.com/ncb000gt/node.bcrypt.js
-
-test
