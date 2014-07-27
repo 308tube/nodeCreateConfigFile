@@ -1,6 +1,6 @@
 {
   "name": "nodeCreateConfigFile",
-  "version": "0.8.0",
+  "version": "1.0.0",
   "description": "Create encrypted config file",
   "main": "app.js",
   "dependencies": {
@@ -15,6 +15,14 @@
     "config",
     "file"
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "308tube",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/308tube/nodeCreateConfigFile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/308tube/nodeCreateConfigFile/issues"
+  },
+  "homepage": "https://github.com/308tube/nodeCreateConfigFile"
 }
